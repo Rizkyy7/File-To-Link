@@ -34,10 +34,10 @@ Either you could locally host or deploy on [Heroku](https://heroku.com)
 
 Press the below button to Fast deploy on Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/alone-boy-A/waste-3)
-
-
-🚀Features<p>
+[ ! [Menyebarkan] (https://www.herokucdn.com/deploy/button.svg) ] (https://heroku.com/deploy?template=https://github.com/alone-boy-A/waste- 3)
+saya
+saya
+fitur < p >
 💥Superfast⚡️ download and stream links.<br>
 💥No ads in generated links.<br>
 💥Superfast interface.<br>
